@@ -1,0 +1,6 @@
+{
+  "name": "AI CAD Plan Analyzer",
+  "description": "AI-powered floor plan analyzer, drawing error detector, and CAD DXF/SVG vector generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

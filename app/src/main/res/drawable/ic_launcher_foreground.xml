@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sophisticated background drop shadow -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M24,24h60v60h-60z" />
+    <!-- Drafting Triangle / Set Square ruler -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M30,30 L78,78 H30 Z M36,44 L64,72 H36 Z" />
+    <!-- Architectural Drafting Compass / Divider -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,20 L58,26 L56,42 L68,76 L65,77 L54,46 L43,77 L40,76 L52,42 L50,26 Z" />
+</vector>
